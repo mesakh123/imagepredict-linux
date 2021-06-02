@@ -40,7 +40,7 @@ static3==0.7.0
 stevedore==1.32.0
 supervisor==4.1.0
 Twisted==18.9.0
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.21
 virtualenv-clone==0.3.0
 virtualenvwrapper==4.8.4
