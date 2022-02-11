@@ -39,7 +39,7 @@ ssh-import-id==5.10
 static3==0.7.0
 stevedore==1.32.0
 supervisor==4.1.0
-Twisted==18.9.0
+Twisted==22.1.0
 urllib3==1.25.8
 virtualenv==20.0.21
 virtualenv-clone==0.3.0
